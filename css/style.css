@@ -1,0 +1,25 @@
+body {
+    background: red;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+h1{
+    color: greenyellow;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 100px;
+}
+h2{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+header{
+    margin-top: 30px;
+}
+
+.contato_img{
+    margin-bottom: 100px;
+    
+}
+
